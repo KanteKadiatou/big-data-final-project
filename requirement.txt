@@ -1,0 +1,29 @@
+# === Core Python Libraries ===
+pandas
+numpy
+pyyaml
+
+# === Big Data / Processing ===
+pyspark==3.5.0
+
+# === Collecte de données ===
+google-api-python-client     # API YouTube
+faker                        # Données simulées
+requests
+
+# === Stockage S3 / MinIO ===
+boto3
+minio
+
+# === Airflow (orchestration) ===
+apache-airflow==2.9.0
+apache-airflow-providers-amazon
+apache-airflow-providers-http
+
+# === Visualisation ===
+streamlit
+plotly
+
+# === Utils ===
+python-dotenv
+tqdm
