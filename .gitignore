@@ -7,32 +7,3 @@ __pycache__/
 .env
 venv/
 .venv/
-
-# Jupyter notebooks checkpoints
-.ipynb_checkpoints/
-
-# VSCode
-.vscode/
-
-# Spark temp
-*.crc
-*._SUCCESS
-spark-warehouse/
-
-# MinIO local data
-minio-data/
-*.tmp
-
-# Logs
-*.log
-
-# Data (NE PAS mettre les datasets bruts dans GitHub)
-data/Raw/
-data/Clean/
-data/Curated/
-
-# Credentials
-*.ini
-*.cfg
-*.json
-*credentials*
