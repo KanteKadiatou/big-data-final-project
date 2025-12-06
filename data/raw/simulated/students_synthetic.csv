@@ -1,0 +1,501 @@
+first_name,last_name,age,gender,course,score,hours_studied,assignments_completed,participation
+Thomas,Hoover,17,Male,Biology,7.86,29.4,2,33
+Todd,Lucas,16,Male,AI,8.52,0.7,10,56
+Daniel,Todd,21,Male,Computer Science,16.86,34.7,6,79
+Christopher,Garcia,18,Female,Math,0.44,1.2,6,95
+Timothy,Shepherd,21,Female,Biology,14.2,26.8,3,45
+Cheryl,Cruz,19,Female,AI,3.49,0.1,3,81
+Corey,Molina,23,Female,Computer Science,8.97,16.2,2,79
+Daniel,Powers,19,Male,Physics,15.18,11.5,6,18
+Tammy,Price,18,Male,Computer Science,1.65,39.5,3,7
+Adrienne,Baker,24,Female,Biology,17.89,27.4,4,13
+Samantha,Decker,23,Female,Biology,18.64,15.7,7,86
+Thomas,Smith,21,Male,Physics,4.63,27.4,2,54
+Elaine,Pena,20,Female,Math,10.86,20.6,4,83
+Darren,Smith,23,Female,Biology,18.08,25.9,2,17
+Sharon,Fleming,23,Female,Biology,16.96,8.6,8,47
+John,Giles,22,Female,Computer Science,1.82,7.5,3,46
+Amanda,Lambert,15,Female,Biology,13.07,0.0,6,84
+Paula,Mills,22,Male,Biology,12.02,18.1,2,97
+Melissa,Mcgrath,16,Male,AI,2.48,15.0,9,33
+Amanda,Clark,19,Male,Computer Science,11.35,22.4,7,42
+Jacqueline,Deleon,24,Female,Computer Science,1.57,30.7,2,62
+Deborah,Anderson,15,Female,Physics,14.17,22.6,6,17
+Stephanie,Robertson,19,Female,Math,19.83,5.1,8,9
+Stephanie,Hammond,16,Female,Physics,16.34,23.7,6,34
+Robert,Brooks,19,Female,AI,2.51,36.8,1,69
+Melissa,Madden,17,Female,Biology,7.7,5.0,1,93
+Sarah,Dalton,24,Male,Physics,12.59,2.8,1,14
+Donna,Jackson,22,Female,Computer Science,11.73,22.9,10,10
+Sean,Christensen,21,Male,Physics,7.37,3.5,2,59
+Crystal,Baldwin,17,Male,Math,16.95,38.9,1,23
+Justin,Brown,20,Female,Computer Science,6.26,37.0,3,26
+Theresa,Rogers,18,Male,Math,10.78,31.3,3,77
+Kelly,Williams,20,Male,Math,8.85,16.7,4,21
+Kyle,Johnson,25,Male,Biology,11.67,24.8,9,99
+Cynthia,Wade,16,Male,Math,1.6,12.2,4,81
+Timothy,Hernandez,25,Female,Computer Science,12.33,29.6,4,42
+Michael,Rogers,17,Female,AI,0.99,7.7,1,18
+Michelle,Jones,20,Female,Biology,10.59,30.5,4,18
+Jessica,Wallace,20,Male,Computer Science,7.91,37.7,8,56
+Sabrina,Rose,23,Male,Math,18.65,12.2,4,27
+Miranda,Young,25,Male,Biology,4.45,7.5,6,58
+Chelsea,Shaw,15,Male,Computer Science,15.14,14.1,1,14
+William,Todd,20,Male,Physics,3.34,34.6,9,33
+Kelsey,Weber,17,Male,AI,13.33,15.6,7,35
+Angela,Cook,21,Female,Physics,10.85,19.9,6,75
+Meghan,Walker,20,Female,Math,15.92,4.7,3,93
+John,Burns,18,Male,Computer Science,2.61,27.3,9,14
+Gabriela,Johnson,21,Male,Math,7.61,3.5,1,53
+Douglas,Kim,21,Female,Computer Science,13.2,13.3,4,37
+David,Rice,16,Male,Math,11.1,24.4,6,19
+Valerie,Coleman,23,Female,Math,6.45,21.5,7,98
+Amy,Gray,21,Female,Physics,0.08,7.7,6,0
+William,Lee,24,Male,Math,15.59,33.3,5,34
+Aaron,Griffin,22,Male,Math,7.73,16.0,2,8
+Hayley,Stanton,24,Male,Computer Science,4.25,36.0,0,66
+Timothy,Marsh,18,Male,Computer Science,12.67,16.8,10,54
+Randy,Parker,19,Female,Biology,5.33,18.5,0,15
+Christopher,Riley,17,Male,Physics,4.35,6.1,0,98
+Amber,Washington,25,Female,AI,11.38,33.4,9,98
+Alisha,Lawrence,16,Male,Math,5.28,28.3,5,73
+Steve,Scott,24,Male,Math,1.06,26.2,5,27
+Robin,King,25,Male,AI,2.99,26.5,7,77
+Brittany,Smith,17,Male,Physics,16.89,37.3,7,62
+Amy,Stevenson,22,Female,Physics,15.08,10.2,10,56
+Paula,Martin,20,Male,Biology,11.61,8.5,6,51
+Amanda,Cox,19,Male,Physics,17.81,35.5,0,93
+Heidi,Washington,19,Male,Physics,17.66,23.3,4,65
+Ana,Butler,18,Male,Physics,15.64,38.4,2,59
+Chloe,Dawson,21,Female,AI,18.97,3.6,8,100
+Julie,Watkins,24,Male,Biology,5.38,16.8,0,81
+Jason,Ryan,20,Female,Math,14.79,22.3,1,57
+Kathleen,Snyder,20,Female,AI,11.36,28.9,2,19
+Brett,Fox,18,Male,Math,7.11,27.4,9,70
+Crystal,Webster,19,Female,Computer Science,11.07,27.3,8,53
+Cody,Compton,19,Female,AI,12.75,32.3,4,40
+Karen,Rodriguez,24,Female,Math,17.69,37.5,5,9
+Emily,Young,20,Female,AI,8.35,37.8,5,67
+Gabriella,Matthews,15,Female,Computer Science,19.17,30.2,10,14
+Katie,Murphy,20,Female,Math,8.0,29.6,4,39
+Michelle,Chen,19,Male,Math,5.54,22.5,9,44
+Kristina,Bauer,24,Female,Math,12.57,36.8,5,62
+Charles,Porter,16,Male,Biology,12.64,29.8,6,74
+Brian,Smith,24,Female,Biology,3.24,19.1,7,97
+Christopher,Galloway,24,Female,Physics,0.45,28.6,1,63
+Melissa,Clements,23,Female,Math,7.08,23.1,3,72
+Lawrence,Miranda,23,Male,Math,16.72,10.1,8,69
+Jennifer,Pollard,15,Female,Biology,9.91,2.8,9,16
+Tyler,Wilkins,23,Female,Physics,0.09,17.7,2,45
+Carl,Smith,17,Male,Math,18.53,23.4,0,20
+Dawn,Reyes,17,Female,Biology,6.91,26.1,8,79
+William,Moore,20,Female,Math,15.13,36.5,2,98
+Valerie,Wright,15,Male,Computer Science,16.68,24.0,10,36
+Taylor,Long,17,Male,AI,7.92,7.4,8,79
+Johnathan,Wright,18,Female,AI,1.86,3.5,6,14
+Ann,Marshall,22,Female,Math,12.45,23.6,5,70
+Katelyn,Shah,15,Female,Physics,9.1,38.4,10,14
+Sheri,Kennedy,25,Female,Computer Science,6.99,19.3,1,28
+Christine,Gonzalez,20,Male,AI,10.81,13.3,9,69
+Cynthia,Shaffer,24,Female,Math,14.91,19.1,5,65
+Edward,Miller,17,Male,Math,0.32,0.9,4,20
+Rebecca,Johnson,23,Female,Computer Science,16.55,23.7,0,60
+Angel,Preston,19,Female,Math,3.86,32.8,10,75
+Alyssa,Woods,24,Female,AI,8.88,31.6,1,31
+Adam,Lee,15,Male,Computer Science,9.86,34.6,4,66
+Bobby,Allen,16,Male,Computer Science,13.57,7.2,10,98
+Brian,Farrell,25,Female,AI,14.61,6.8,4,47
+Scott,Smith,21,Male,Computer Science,16.39,6.0,4,98
+John,Montgomery,23,Female,Math,15.56,23.9,7,94
+Denise,Price,16,Female,AI,5.9,1.9,4,66
+Sarah,Harper,17,Male,Physics,7.23,19.6,10,83
+Jacqueline,Patterson,23,Female,Math,16.46,5.0,0,18
+Isaiah,Juarez,19,Male,Math,10.66,37.9,2,58
+Crystal,Hernandez,21,Female,Physics,8.53,26.9,1,98
+Janet,Frederick,19,Female,Computer Science,14.28,8.2,1,0
+David,Gentry,18,Male,AI,9.82,7.9,6,97
+Michael,Lynn,24,Male,Computer Science,11.37,7.9,7,30
+David,Brown,24,Male,Computer Science,4.38,38.4,6,14
+Tiffany,Simmons,23,Female,AI,5.77,10.5,3,5
+Christopher,Allen,18,Male,Biology,17.62,5.9,2,68
+Kayla,Mosley,15,Male,AI,16.0,36.1,5,21
+Natalie,Ortiz,16,Male,Math,5.96,29.1,6,77
+Frederick,Day,18,Female,AI,13.24,15.4,6,41
+Danielle,Lang,24,Female,Computer Science,13.84,2.0,4,3
+Christine,Hardy,17,Male,Math,15.47,34.2,7,72
+Tiffany,Guerrero,20,Male,Computer Science,7.91,10.5,8,60
+Sarah,Harrison,22,Male,AI,2.82,24.0,1,25
+Clayton,Vaughn,20,Female,Physics,17.96,24.3,10,77
+Brittany,Holt,24,Female,AI,1.16,19.0,0,68
+Christopher,Rivera,23,Female,Computer Science,16.95,1.4,8,42
+Jacob,Raymond,15,Male,Biology,6.82,23.8,3,26
+Susan,Giles,17,Male,Math,18.85,19.6,5,73
+Michael,Decker,25,Female,AI,19.75,34.1,2,56
+Glenn,Mejia,20,Male,Biology,13.44,1.7,8,49
+Daniel,Vasquez,24,Male,Computer Science,16.93,37.8,10,93
+Drew,Scott,22,Female,Math,18.82,21.2,5,92
+Brian,Brewer,15,Male,Physics,17.68,37.1,2,18
+Brian,Sanchez,20,Female,Computer Science,12.59,8.4,7,88
+Angela,Hensley,19,Male,Biology,14.3,26.6,3,25
+Tonya,Williams,15,Male,Biology,12.14,15.0,5,99
+Jill,Anderson,19,Female,Computer Science,15.79,14.1,10,80
+Kyle,Spears,23,Male,AI,2.37,0.0,2,59
+Amanda,Sweeney,17,Male,Biology,4.06,17.4,1,39
+Melissa,Woodward,18,Female,Physics,17.84,33.4,10,100
+Kevin,Franklin,19,Female,Computer Science,4.15,23.9,8,27
+Heather,Cooper,19,Female,AI,15.57,18.4,7,41
+Mary,Gordon,23,Male,Physics,2.85,14.1,8,92
+John,Davis,18,Female,Biology,11.72,26.9,9,86
+Micheal,Wilson,17,Female,AI,0.21,29.9,10,59
+Brenda,Heath,15,Male,AI,18.74,34.1,1,44
+Karen,Smith,23,Male,Math,17.89,12.1,1,25
+Joseph,Torres,18,Male,AI,8.09,20.2,4,1
+Daniel,Taylor,16,Male,Biology,1.69,21.4,1,87
+Benjamin,Burton,15,Female,Physics,4.77,25.6,8,36
+Nicole,Gross,23,Female,Biology,11.39,33.6,5,43
+Michael,Johnson,25,Female,Physics,4.16,33.9,6,15
+Jessica,Jenkins,25,Female,Biology,5.56,31.3,8,3
+Kelly,Harris,22,Female,Math,15.04,24.2,10,19
+Latasha,Ortiz,22,Male,Math,15.75,6.5,2,10
+John,Curtis,19,Male,Biology,9.77,16.0,5,19
+Michael,Stewart,19,Female,Math,3.72,14.9,6,12
+Tina,Hill,23,Female,Computer Science,17.92,19.1,10,70
+Desiree,Hood,20,Male,Biology,6.62,23.4,7,44
+Thomas,Fisher,17,Male,Computer Science,2.48,27.1,1,93
+Eduardo,Johnson,17,Male,Physics,4.68,11.0,3,100
+Sara,Garrison,21,Female,Math,13.43,1.7,8,22
+Nicholas,Thomas,19,Male,Physics,13.93,17.8,0,93
+Debbie,Webb,18,Male,AI,17.41,13.6,4,67
+Sandra,Adams,21,Male,Computer Science,11.41,5.3,3,40
+Jose,Peterson,20,Female,Biology,15.25,2.2,1,37
+Monica,Edwards,17,Female,Biology,3.76,30.3,0,99
+Tamara,Hernandez,16,Female,Computer Science,3.76,8.5,5,57
+Catherine,Hall,20,Female,AI,8.17,35.8,8,15
+Anthony,Smith,16,Female,Math,19.65,36.1,9,91
+Vincent,Johnson,15,Female,Computer Science,9.34,29.2,10,5
+Joseph,Nash,21,Female,Math,4.16,24.2,4,13
+Dawn,Garcia,18,Male,Math,17.6,8.0,5,43
+Aimee,Burch,18,Female,Math,4.26,8.4,2,20
+Margaret,Mcdonald,22,Male,AI,9.21,10.6,5,45
+William,Barrett,15,Male,Biology,5.86,16.7,8,11
+Danielle,Cole,20,Female,Computer Science,15.95,2.9,6,23
+Robin,Smith,17,Male,Math,12.49,37.1,5,2
+Stephanie,Garcia,24,Female,Physics,6.73,28.6,2,65
+Sarah,Monroe,25,Female,Biology,12.41,27.8,10,51
+Jesse,Nelson,25,Male,AI,9.07,26.1,4,29
+Benjamin,Wise,20,Male,Physics,0.59,24.8,3,72
+Gregory,Gill,18,Male,Biology,2.71,33.1,6,2
+Jessica,Daniels,22,Female,Physics,12.1,34.9,2,59
+Lydia,Henderson,20,Male,Biology,18.87,31.7,6,5
+Donna,Russell,24,Male,Computer Science,16.21,19.6,10,7
+Bradley,Cortez,18,Female,AI,5.45,36.2,6,35
+Christopher,Gonzalez,17,Male,Computer Science,10.19,24.7,0,67
+Andre,Rodriguez,23,Female,AI,17.9,13.3,8,35
+Tara,Thomas,24,Male,AI,4.75,13.6,6,54
+Charles,Tran,15,Female,Biology,0.87,34.1,9,87
+Julie,Chaney,20,Male,Computer Science,14.51,16.5,0,3
+Christopher,Davis,18,Male,Computer Science,12.02,32.3,5,99
+Timothy,Juarez,25,Female,Physics,4.48,9.0,5,87
+April,Rodriguez,15,Female,Physics,5.49,12.1,1,36
+Timothy,Watkins,21,Male,Math,16.9,37.2,9,10
+Jeremy,Hoffman,24,Male,Physics,17.17,27.2,3,45
+Daniel,Watts,20,Male,Physics,11.04,33.3,3,1
+Valerie,Greene,15,Female,Math,8.8,37.4,8,10
+Jaime,Brown,16,Male,Biology,16.96,8.6,6,65
+Ryan,Powers,17,Female,AI,14.38,8.4,10,66
+Christina,Massey,17,Female,Biology,8.44,0.3,5,26
+Emily,Johnson,25,Female,Physics,0.44,33.0,4,1
+Amanda,Price,18,Male,Physics,2.67,10.8,1,63
+Nicholas,Williams,19,Female,Math,1.96,34.0,2,59
+Shaun,Snyder,25,Male,Biology,11.67,27.9,10,63
+Samuel,Miller,24,Male,Biology,0.96,7.7,2,24
+Madison,Ortiz,24,Female,Biology,11.67,7.3,0,97
+Amy,Harding,18,Female,Physics,16.42,18.0,7,50
+Sarah,White,22,Female,AI,13.67,30.6,9,0
+Cassie,Hoover,20,Female,Biology,13.51,16.7,10,33
+Ryan,Bryant,17,Male,Biology,5.64,37.2,2,32
+Destiny,Trevino,15,Female,Math,7.29,31.1,5,69
+Nicholas,Briggs,21,Female,Computer Science,11.75,28.2,8,27
+Daniel,Maddox,17,Male,Biology,14.72,24.9,9,7
+Rachel,Spears,25,Female,Biology,13.88,34.7,6,52
+Teresa,Taylor,19,Male,Math,15.75,23.4,3,87
+Jack,Wright,15,Female,AI,13.69,5.4,8,5
+Ronald,Mitchell,24,Male,Math,6.9,29.5,2,38
+Joseph,Collins,18,Female,Physics,4.41,34.9,7,92
+Jose,Peterson,22,Male,Physics,10.21,14.6,4,13
+Jared,Sanford,15,Female,Biology,0.04,16.3,5,50
+Michelle,Washington,17,Male,AI,10.33,11.4,1,25
+Erika,Wilson,20,Female,AI,8.63,1.3,6,34
+Kathleen,Craig,19,Female,Biology,16.39,15.3,9,95
+Brooke,Bennett,23,Female,Biology,19.26,26.4,7,34
+Ruben,Fischer,21,Female,Math,7.12,21.5,0,31
+Ashley,Carroll,17,Male,Physics,9.43,13.4,6,83
+Taylor,Sanford,18,Female,Biology,17.49,8.0,3,63
+Todd,Davis,19,Male,Biology,7.95,39.0,9,33
+Eric,Arnold,21,Male,AI,1.18,34.9,3,16
+Joshua,Huerta,16,Male,Biology,13.89,29.2,5,5
+Mark,Chase,21,Male,AI,15.69,13.1,6,99
+Mark,Tucker,18,Male,Computer Science,11.85,24.8,4,50
+Jeffrey,Montgomery,22,Male,Math,1.95,3.4,4,92
+Michael,Kirk,16,Male,Biology,9.02,34.2,8,5
+Amanda,Taylor,15,Male,Physics,15.52,38.3,3,9
+David,Jarvis,24,Male,Computer Science,16.13,37.8,1,33
+Maurice,French,19,Male,Physics,16.37,36.5,7,75
+Cindy,Kane,19,Female,AI,10.04,11.4,0,43
+Jeffrey,Schneider,19,Female,Biology,5.95,26.0,6,11
+Jennifer,Smith,15,Female,Biology,12.84,5.5,9,7
+Bryan,Stevens,20,Female,Physics,9.57,33.5,0,72
+Nancy,Sullivan,17,Female,Computer Science,0.18,33.9,10,76
+Leslie,Leonard,20,Female,AI,5.09,37.1,7,65
+Brandon,Little,20,Male,Computer Science,12.28,11.2,5,50
+Carl,Mitchell,21,Female,Biology,1.64,38.3,4,20
+Adam,Jones,15,Female,Math,4.21,14.3,4,2
+Walter,Taylor,17,Female,Math,3.22,13.6,5,63
+Sharon,Zuniga,24,Male,Biology,10.5,36.8,6,75
+Victoria,Pitts,23,Male,Math,11.33,9.2,10,10
+Grant,Williams,18,Male,Math,4.8,23.2,10,27
+Mark,Armstrong,20,Female,AI,19.63,16.0,5,34
+Deborah,Weaver,19,Male,AI,2.47,11.5,4,94
+Erika,Hall,16,Male,Computer Science,2.06,8.5,7,36
+Anthony,Miller,23,Male,Physics,12.59,1.9,2,68
+Frank,Jones,25,Female,Physics,9.24,33.4,8,65
+Scott,Dickson,18,Male,AI,11.78,26.8,8,97
+Katherine,Gonzalez,25,Male,Physics,7.08,3.2,7,11
+Danielle,Berry,21,Male,Computer Science,6.56,3.9,9,17
+Jeff,Hill,20,Female,Math,3.45,28.8,8,22
+Henry,Farmer,23,Female,Biology,1.95,22.7,7,29
+Raymond,Montgomery,18,Male,Physics,2.08,1.2,10,73
+Alicia,Reed,25,Female,Physics,1.65,24.4,1,52
+Jeanette,Barker,20,Male,Biology,5.55,22.6,0,31
+Mia,Flores,22,Male,Math,5.84,4.2,10,32
+Brian,Mejia,18,Male,AI,10.21,24.3,6,91
+Jonathan,Snyder,17,Male,Physics,13.42,27.6,3,89
+Courtney,Watkins,24,Female,Biology,8.18,33.8,10,26
+Timothy,Bonilla,21,Female,Physics,15.74,3.0,0,90
+Alexis,Lawrence,23,Male,Physics,8.65,31.3,6,37
+Shawn,Hart,15,Male,Biology,13.87,17.9,6,68
+Chase,Stevenson,21,Male,Computer Science,12.5,1.3,4,27
+Roy,Riley,17,Female,Physics,5.57,14.5,9,27
+David,George,19,Female,Math,17.36,3.8,10,37
+Zachary,Collins,15,Male,Computer Science,14.51,21.3,9,26
+Carly,Ferrell,18,Female,Biology,5.15,15.5,0,88
+Amanda,Weeks,23,Female,AI,7.51,15.7,9,20
+Kenneth,Hayes,17,Female,AI,18.45,12.7,8,85
+Leah,Ramirez,16,Female,Math,6.48,2.5,5,59
+Brianna,Rivera,21,Male,Computer Science,18.84,1.7,8,44
+Cynthia,Rodriguez,15,Female,Biology,2.77,15.2,2,50
+Stephanie,Kennedy,15,Female,Biology,19.41,10.2,2,18
+Rebecca,Miller,22,Male,Biology,14.26,34.1,1,94
+Lauren,Taylor,16,Male,AI,18.78,20.5,0,82
+Patricia,Roth,24,Female,Computer Science,13.57,24.4,10,57
+Rachel,Campbell,16,Female,Math,7.32,4.5,1,64
+David,Murray,21,Female,AI,7.33,31.2,0,43
+Timothy,Taylor,23,Female,Computer Science,17.28,31.2,5,80
+David,Caldwell,24,Male,AI,3.39,9.7,7,99
+Jose,Hutchinson,16,Female,Physics,5.43,22.5,1,6
+Laurie,Moreno,22,Male,Computer Science,6.77,4.7,10,77
+Katherine,Wright,25,Male,Biology,1.52,25.2,9,15
+Andre,Nelson,15,Female,Computer Science,12.59,2.2,3,70
+Frederick,Hansen,17,Female,Biology,18.2,11.5,6,57
+Nicole,Phillips,19,Female,AI,11.45,18.7,4,35
+Jesus,Rose,18,Male,Physics,2.5,30.8,7,94
+Peter,Knox,23,Male,Biology,9.02,25.2,7,60
+Cynthia,Cole,18,Male,Biology,3.87,6.8,2,85
+Lacey,Meyers,22,Male,AI,5.31,35.5,2,26
+Melissa,Mills,15,Female,Physics,3.32,3.9,10,94
+Charles,Bradley,20,Male,Physics,4.43,3.7,4,65
+Manuel,Reynolds,16,Female,Computer Science,2.47,3.7,4,1
+Kimberly,Smith,23,Male,Physics,17.87,18.3,8,21
+Denise,Moss,19,Female,Biology,7.71,21.3,7,63
+Heather,Carlson,22,Female,Biology,16.74,21.1,4,58
+Whitney,Dyer,16,Female,AI,9.8,10.0,6,41
+Shelia,Ruiz,18,Female,Computer Science,15.82,12.0,10,88
+Sonia,Johnson,19,Male,Math,9.98,28.5,8,82
+Charles,Brown,21,Female,Math,13.15,35.9,6,65
+Linda,Estrada,19,Male,Computer Science,1.49,9.1,10,94
+Jacqueline,Smith,23,Female,AI,4.05,26.6,10,6
+Michael,Erickson,21,Female,AI,19.35,9.0,7,33
+Deanna,Morales,16,Male,Biology,6.92,21.8,3,8
+Mary,Ramos,18,Female,Physics,16.28,20.5,5,57
+Ronald,Johnson,24,Male,Math,14.31,10.5,9,85
+Lydia,Castillo,23,Female,Physics,12.51,4.0,0,16
+Samantha,Brown,18,Female,Math,11.44,25.2,8,2
+Robert,Yates,22,Male,Math,5.48,4.2,4,28
+Katrina,Fowler,22,Female,Computer Science,10.09,39.5,10,14
+Kim,Jones,22,Male,AI,12.84,31.4,8,14
+Taylor,Smith,22,Male,Biology,13.13,30.7,3,33
+Alexandria,Alvarado,15,Male,Computer Science,4.42,8.9,4,69
+Guy,Potts,17,Male,Math,1.92,32.0,2,13
+Timothy,Green,25,Male,Biology,7.0,10.8,8,58
+Martha,Rivera,25,Female,Biology,17.14,33.0,5,45
+Laura,Mack,25,Female,AI,6.86,23.2,4,37
+Austin,Johnson,21,Male,Computer Science,4.88,38.2,10,89
+Michael,Cole,23,Male,Math,10.76,9.3,9,19
+Heather,Long,17,Male,AI,2.98,21.4,2,12
+Lori,Jones,19,Male,AI,14.78,11.0,5,88
+Rebecca,Bailey,15,Female,Math,15.46,8.1,0,48
+Christopher,Rodriguez,24,Female,Math,8.31,2.5,7,79
+David,Decker,25,Female,Computer Science,0.47,14.1,0,49
+Rita,Padilla,25,Male,Physics,13.39,8.8,8,63
+Eric,Rivera,19,Female,Biology,15.69,24.4,5,54
+Roger,Savage,18,Female,Math,9.12,7.2,3,62
+Richard,Taylor,21,Male,AI,12.69,14.9,0,8
+Michelle,Burke,23,Male,Math,2.96,10.7,9,36
+Elizabeth,Murray,18,Male,Math,11.38,35.8,10,80
+Carolyn,Francis,16,Male,Biology,7.25,18.1,8,77
+Pamela,Jones,22,Female,Physics,1.47,11.1,9,32
+Scott,Moody,19,Male,Math,14.81,26.2,10,80
+Jeffrey,Morrison,20,Female,Computer Science,18.63,29.2,9,14
+Kimberly,Larson,24,Female,Computer Science,4.55,8.1,5,64
+Steven,Martin,19,Male,Computer Science,15.16,12.1,2,39
+Sherri,Aguirre,23,Female,Physics,10.56,29.4,8,73
+Christy,Wood,18,Male,Computer Science,14.57,9.8,7,26
+Linda,Marshall,21,Male,Math,13.43,3.4,3,56
+Bryan,Baker,19,Female,Biology,11.38,28.1,3,5
+Kristina,Roberts,16,Male,Computer Science,5.63,18.2,3,9
+Cindy,Banks,17,Male,Computer Science,19.92,18.5,0,82
+Heather,Nelson,20,Female,Biology,11.75,15.6,6,12
+Zachary,Hernandez,15,Female,Computer Science,16.39,15.1,7,30
+Russell,Carroll,16,Female,Biology,14.44,27.2,7,23
+Mathew,Davis,21,Female,Physics,19.4,29.1,2,73
+James,Arias,15,Female,Biology,5.88,13.8,5,34
+Rachel,Bell,21,Male,Biology,4.21,18.3,7,50
+Heidi,Gordon,17,Male,Physics,4.75,33.2,0,16
+Jonathan,Moore,15,Male,Math,10.12,23.1,3,16
+Holly,Brown,23,Male,Computer Science,10.86,13.4,8,89
+Heidi,Soto,19,Male,Math,7.84,11.2,5,46
+Gregory,Fletcher,17,Female,Physics,3.15,38.1,5,87
+Frank,Krueger,24,Female,Physics,16.91,16.0,0,96
+Luis,Smith,22,Female,AI,8.53,18.7,7,32
+Tricia,Peters,17,Female,AI,5.53,7.1,3,21
+Kyle,Clark,21,Female,Physics,16.25,29.0,5,55
+Travis,Clay,17,Female,Biology,18.99,2.0,1,44
+Ashlee,Rollins,15,Female,AI,9.23,23.2,6,91
+Lance,Bryant,20,Female,AI,2.32,30.3,1,11
+Alyssa,Smith,24,Male,Computer Science,18.21,16.1,6,1
+Timothy,Cunningham,17,Male,AI,3.23,11.7,0,21
+James,Norton,18,Male,Computer Science,7.93,20.9,7,48
+Alexandra,Ross,25,Female,AI,12.31,29.0,2,87
+Lauren,Nelson,23,Female,Biology,1.38,36.8,3,91
+Charles,Thompson,23,Male,Biology,9.23,33.4,4,61
+William,Dickson,21,Male,Math,14.16,33.5,7,97
+Daniel,Wells,15,Male,Biology,9.97,34.5,7,12
+Heather,Terry,22,Male,Biology,5.89,13.1,6,57
+Christine,Ortega,17,Male,Math,0.58,31.6,1,65
+Julie,Wang,16,Male,Computer Science,3.15,6.9,3,61
+Marc,Morgan,22,Male,Computer Science,17.8,6.4,9,5
+Christopher,Medina,16,Female,Biology,1.73,6.9,4,27
+Charles,Mercado,20,Male,Computer Science,16.18,11.2,4,64
+Erika,Peck,15,Male,Math,12.57,35.9,6,62
+Erin,Smith,19,Male,Physics,1.8,24.8,10,86
+Jared,Patel,21,Female,Biology,7.55,9.7,10,21
+Kyle,Wilson,22,Male,Computer Science,7.23,15.8,3,5
+Angela,Brown,18,Female,Physics,3.77,37.1,9,72
+Anthony,Curtis,15,Female,AI,0.59,14.3,4,65
+John,Wade,20,Male,Physics,18.67,19.0,4,33
+Sandra,Robinson,24,Male,AI,4.93,19.6,0,52
+Kyle,Welch,25,Female,Physics,7.58,16.7,7,37
+Linda,Gonzalez,23,Male,Physics,1.39,32.5,4,79
+Robin,Gutierrez,22,Male,Biology,19.4,17.0,1,59
+Rodney,Simmons,18,Male,AI,5.72,34.1,7,2
+Michael,Miller,21,Female,Physics,5.59,23.3,5,30
+Shawn,Ortiz,15,Male,AI,8.96,34.0,7,76
+Douglas,Bush,17,Female,AI,19.09,15.0,2,85
+Jennifer,Campbell,20,Female,Computer Science,6.31,19.7,7,26
+Kyle,Bartlett,20,Female,Math,5.16,26.7,8,40
+Mark,Watkins,17,Male,AI,14.46,19.9,1,96
+Scott,Mendez,17,Male,Math,19.37,36.3,0,2
+Savannah,Hartman,18,Female,Biology,10.17,32.1,10,99
+Brittany,Clark,23,Male,AI,7.36,33.7,3,9
+Megan,Carpenter,25,Male,Physics,14.01,33.6,2,15
+Darius,Miller,15,Male,Computer Science,8.44,15.9,3,83
+Logan,Richards,18,Female,Physics,11.25,29.0,0,19
+Christine,Chang,21,Male,Biology,9.0,18.4,1,14
+Austin,Hardy,24,Female,Physics,11.93,4.9,3,84
+Marissa,Hartman,22,Female,AI,14.21,21.5,7,66
+Diana,Douglas,23,Female,Computer Science,15.77,22.1,5,74
+Vanessa,Zuniga,17,Female,AI,18.51,24.0,10,28
+Jill,Edwards,16,Male,AI,11.41,0.3,10,93
+Joseph,Vega,24,Male,AI,7.32,36.4,6,85
+Joseph,Thompson,23,Male,AI,18.73,32.2,8,25
+Lisa,Edwards,19,Male,Biology,4.42,19.1,8,21
+Jeremiah,Clay,22,Male,Physics,9.12,16.0,3,39
+Gregory,White,25,Male,Physics,5.0,26.0,7,49
+Alison,Greene,21,Female,Biology,16.51,12.8,2,16
+Bianca,Huber,15,Male,Computer Science,13.54,2.0,2,20
+David,Shelton,22,Male,Computer Science,14.98,26.3,2,99
+Joseph,Contreras,25,Female,Math,17.53,31.3,3,4
+Kaitlin,Ford,21,Female,Physics,2.16,6.2,0,36
+Carlos,Rodriguez,25,Male,Biology,12.78,36.5,4,82
+Michael,Wong,16,Male,Biology,3.11,12.2,4,84
+Michael,Morales,20,Male,Physics,2.44,18.0,3,52
+Edward,Chapman,16,Male,Computer Science,10.07,14.7,0,52
+Dennis,Wood,20,Female,Physics,6.39,26.3,5,24
+Michael,Ortiz,23,Female,Math,14.07,9.1,1,57
+Natalie,Allen,15,Female,Biology,10.82,2.4,10,69
+Christopher,Dixon,19,Female,AI,8.4,34.2,9,83
+Lisa,Reid,25,Female,Math,6.65,26.4,3,85
+Michael,Gutierrez,18,Male,AI,11.26,24.1,10,50
+Andrea,Townsend,24,Female,Biology,7.14,2.8,6,73
+Kristina,Archer,17,Female,AI,8.87,4.7,6,27
+Morgan,Smith,22,Female,Math,11.47,31.7,3,21
+Richard,Cabrera,25,Male,Biology,3.09,3.9,1,51
+Monica,English,23,Male,Physics,1.26,11.7,9,36
+Cameron,Haynes,23,Female,Computer Science,15.03,30.3,9,55
+Troy,Taylor,15,Female,Biology,10.53,28.4,6,18
+Logan,Turner,25,Female,AI,2.95,39.0,4,34
+Sean,Chavez,18,Male,Physics,17.58,39.1,3,89
+Alexis,Gutierrez,24,Female,Computer Science,18.97,13.7,10,66
+Eddie,Schmidt,22,Male,Biology,17.2,36.1,6,24
+Shane,Miller,20,Male,Computer Science,4.31,32.8,9,1
+Daniel,Sanchez,25,Female,Biology,13.26,21.0,0,2
+Amanda,Blake,17,Male,Computer Science,6.96,10.0,6,84
+Michael,Forbes,24,Male,Biology,19.47,28.1,3,72
+Scott,Ramirez,22,Male,Computer Science,16.48,24.4,10,6
+Scott,Brown,24,Male,Biology,16.12,18.3,6,87
+Michelle,Lee,23,Male,Math,10.11,29.4,7,57
+Brian,Nguyen,25,Female,AI,1.48,30.4,6,34
+Laura,Berger,17,Male,AI,17.97,12.8,2,86
+Cristian,Chavez,15,Male,Biology,16.86,26.2,6,67
+Rebecca,Moore,18,Female,Physics,3.74,28.3,3,7
+Brandi,Sanchez,24,Female,Computer Science,11.43,0.5,3,20
+Craig,Cook,17,Female,Physics,0.26,25.3,10,15
+Kelsey,Smith,18,Male,Computer Science,9.48,37.4,5,78
+Melissa,Richardson,21,Male,Physics,15.89,7.3,4,17
+Earl,Martinez,23,Female,AI,8.27,7.7,3,15
+Ann,Olsen,23,Female,AI,7.51,25.4,1,36
+Timothy,Patel,23,Male,Biology,17.51,39.5,1,32
+Frederick,Montoya,20,Male,Physics,19.04,11.7,8,70
+Stephanie,Smith,19,Female,Biology,1.27,10.4,8,4
+Tyler,Garza,17,Female,Biology,8.26,17.6,7,93
+Jeffery,Gardner,18,Male,AI,0.58,33.1,6,18
+Bryan,Maldonado,24,Female,Computer Science,6.21,4.7,3,3
+Jeff,Randall,24,Male,Biology,2.29,22.8,3,23
+Curtis,Garcia,19,Female,Physics,3.22,33.6,10,52
+Melissa,Olson,21,Female,Math,18.74,12.7,3,21
+William,Richardson,16,Male,Biology,11.86,10.2,5,96
+Stephanie,Armstrong,25,Male,Math,7.15,16.3,2,35
+Christopher,Arnold,21,Female,AI,18.33,38.9,5,52
+Catherine,Brooks,17,Male,Biology,8.99,21.5,5,37
+Michelle,Ward,25,Male,Biology,5.16,36.7,5,98
+Nicole,Christensen,16,Female,Physics,8.55,28.5,10,8
+Morgan,Rivera,18,Male,AI,17.67,22.7,10,49
+Bryan,Hall,21,Male,Biology,14.91,20.3,4,27
+Christopher,Brandt,18,Female,Math,6.77,11.1,8,87
+Christian,Osborne,19,Female,Biology,0.23,10.3,1,88
+Michael,Moore,15,Female,Biology,8.63,13.8,4,88
+Robert,Gomez,19,Male,Computer Science,5.93,13.1,6,57
+Allen,Williams,25,Female,Biology,3.34,23.1,8,74
+Joshua,Owens,24,Female,Computer Science,13.23,3.5,6,65
+Anthony,Sutton,20,Female,Biology,17.61,2.9,9,24
+Ernest,Taylor,15,Male,Physics,11.57,34.0,0,15
+Sherry,Barton,23,Female,Computer Science,19.06,36.6,1,26
+Sean,Johnson,17,Female,AI,14.9,21.0,9,86
+Robert,Steele,25,Male,AI,1.06,28.0,10,4
+Ronald,Gregory,23,Female,Computer Science,9.66,7.8,5,24
+Veronica,Rivera,20,Male,AI,4.28,11.4,1,78
+Curtis,Lee,23,Female,AI,0.39,5.9,9,98
+Holly,Watson,18,Male,AI,12.88,5.2,10,94
+Erin,Rodriguez,16,Female,AI,6.5,11.8,2,66
+Carl,Weaver,24,Female,AI,11.24,12.9,8,29
+David,Martinez,21,Male,Math,16.24,9.7,10,36
