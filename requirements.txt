@@ -23,6 +23,7 @@ apache-airflow-providers-http
 # === Visualisation ===
 streamlit
 plotly
+statsmodels
 
 # === Utils ===
 python-dotenv
