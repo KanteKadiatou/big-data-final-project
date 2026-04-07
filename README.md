@@ -202,4 +202,4 @@ notebooks/exploration.ipynb
 
 # 👤 Auteur
 
-Projet réalisé par **[Kadiatou Kanté / Mouctar Diallo]** — 2025.
+Projet réalisé par **[Kadiatou Kanté ]** — 2025.
